@@ -19,4 +19,4 @@ Backend en Spring Boot (Entity → Repository → Service → Controller) con re
 ## Estado
 **Logrado:** entidades y relaciones, repositorios, servicios con validaciones, CRUD completo, endpoints de relación, manejo de errores, colección Postman y frontend React.
 
-**Pendiente:** capturas de Postman y commits de todos los integrantes.
+
