@@ -12,9 +12,9 @@ Backend en Spring Boot (Entity → Repository → Service → Controller) con re
 2. **Frontend:** en `frontend` ejecutar `npm install` y luego `npm run dev` → http://localhost:5173
 3. **Postman:** importar la colección y ejecutar las carpetas en orden (1 → 5)
 
-## Integrantes
+## Integrante
 - Eliot Ibacache
-- (agregar integrantes)
+
 
 ## Estado
 **Logrado:** entidades y relaciones, repositorios, servicios con validaciones, CRUD completo, endpoints de relación, manejo de errores, colección Postman y frontend React.
